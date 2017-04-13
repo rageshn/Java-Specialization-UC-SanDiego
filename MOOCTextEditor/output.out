@@ -1,0 +1,4 @@
+//TESTING ADDING WORDS (addWord, insert)//
+
+** Test #1: Adding first word to dictionary...
+Error during runtime: java.lang.NullPointerException
